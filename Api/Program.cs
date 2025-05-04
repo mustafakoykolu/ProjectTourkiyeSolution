@@ -29,5 +29,4 @@ app.UseCors("all");
 app.UseAuthorization();
 
 app.MapControllers();
-
 app.Run();
